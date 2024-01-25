@@ -1,0 +1,26 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: http://russellbryant.net/superjp/sitemap.xml
+Sitemap: http://russellbryant.net/gilajp/sitemap.xml
+Sitemap: http://russellbryant.net/gojekpot/sitemap.xml
+Sitemap: http://russellbryant.net/winstrike69/sitemap.xml
+Sitemap: http://russellbryant.net/slotgacor/sitemap.xml
+Sitemap: http://russellbryant.net/slotzeus/sitemap.xml
+Sitemap: http://russellbryant.net/kaptenjackpot/sitemap.xml
+Sitemap: http://russellbryant.net/boosterjp/sitemap.xml
+Sitemap: http://russellbryant.net/kerajaanslot/sitemap.xml
+Sitemap: http://russellbryant.net/pakong86/sitemap.xml
+Sitemap: http://russellbryant.net/viral88/sitemap.xml
+Sitemap: http://russellbryant.net/clan4d/sitemap.xml
+Sitemap: http://russellbryant.net/dinamit4d/sitemap.xml
+Sitemap: http://russellbryant.net/elang212/sitemap.xml
+Sitemap: http://russellbryant.net/gori77/sitemap.xml
+Sitemap: http://russellbryant.net/viral4d/sitemap.xml
+Sitemap: http://russellbryant.net/playground88/sitemap.xml
